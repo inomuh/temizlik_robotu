@@ -28,4 +28,4 @@ $ roslaunch temizlik_robotu_baslat temizlik_robotu_baslat.launch
 
 Görev tamamlama yüzdesini görmek için
 
-$ rosrun temizlik_robotu temizlik_robotu_bilgi_servisi_baslat.launch
+$ rosrun temizlik_robotu temizlik_robotu_bilgi_servisi_baslat.py
