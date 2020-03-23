@@ -1,0 +1,48 @@
+Atanacak_Gorevler:
+  Gorev_1:
+    gidilecek_yol: 2
+    bas_aci_derecesi: 0
+  
+  Gorev_2:
+    gidilecek_yol: 5
+    bas_aci_derecesi: 90
+
+  Gorev_3:
+    gidilecek_yol: 1
+    bas_aci_derecesi: 180
+
+  Gorev_4:
+    gidilecek_yol: 5
+    bas_aci_derecesi: 90
+
+  Gorev_5:
+    gidilecek_yol: 1
+    bas_aci_derecesi: 0
+
+  Gorev_6:
+    gidilecek_yol: 5
+    bas_aci_derecesi: 90
+
+  Gorev_7:
+    gidilecek_yol: 1
+    bas_aci_derecesi: 180
+
+  Gorev_8:
+    gidilecek_yol: 5
+    bas_aci_derecesi: 90
+
+  Gorev_9:
+    gidilecek_yol: 1
+    bas_aci_derecesi: 0
+
+  Gorev_10:
+    gidilecek_yol: 5
+    bas_aci_derecesi: 90
+
+  Gorev_11:
+    gidilecek_yol: 1
+    bas_aci_derecesi: 180
+
+  Gorev_12:
+    gidilecek_yol: 5
+    bas_aci_derecesi: 0
